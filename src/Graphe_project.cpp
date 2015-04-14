@@ -7,7 +7,10 @@
 //============================================================================
 
 #include <iostream>
+
 using namespace std;
+#include <cpprest/http_client.h>
+#include <cpprest/json.h>
 
 int main() {
 	cout << "!!!Hello World kkkkkkkk!!!" << endl; // prints !!!Hello World!!!
