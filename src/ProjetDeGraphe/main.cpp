@@ -13,7 +13,7 @@
 using namespace std;
 
 int main() {
-    cout<<"sa marche"<<endl;
+    cout<<"ca marche"<<endl;
     ifstream fileIn ("../Toulouse.csv"); // read
     ofstream fileOut ("../Toulouse1.csv"); // write
     

@@ -7,14 +7,14 @@ Vous aurez un dossier ProjetDeGraphe...
 
 Pour compiler le code, il vous faut ouvrir un terminal et executer cette commande.
 
-g++ main.cpp -std=c++11 -I  ../../../Essential/include/cpprest -L ../../../Essential/Binaries
+g++ main.cpp -std=c++11 -I  ../../Essential/include/cpprest -L ../../Essential/Binaries
 
 Une fois terminé vous aurez normalement un fichier a.out qui sera généré (deja existant dans le projet...)
 
 Dans une fenêtre de termine execute ce fichier simplement en tapant son nom.
 
 Normalement à l'execution vous devriez avoir:
-	" sa marche "
+	" ca marche "
 	...
 	...
 	... 
